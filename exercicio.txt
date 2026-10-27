@@ -1,0 +1,2 @@
+Fazer a seguinte programa:
+- Dado um valor X calcular através do método de Newton-Raphson a raiz aproximada de cos(x) com precisão de 5 casas decimais.

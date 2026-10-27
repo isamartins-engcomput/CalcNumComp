@@ -1,0 +1,33 @@
+É importante saber a quantidade de bytes de float e double?
+
+O float e double é extremamente preciso?
+
+Essa imprecisão lembra qual conteúdo da matemática?
+
+Como é o IEEE 754 para 32 bits?
+
+Qual o comando do GDB para mostrar o valor de uma variável em binário?
+
+Converta o valor X em decimal para o padrão IEEE 754.
+
+Converta o valor do padrão IEEE 754 para decimal.
+
+IEEE 754 - Desnormalizado e NaN
+
++∞ ou inf - Infinito positivo.
+
+-∞ ou -inf - Infinito negativo.
+
+Truncamento e Arredondamento
+
+Erro de conversão de base
+
+Erro Absoluto e Erro Relativo
+
+Underflow e Overflow
+
+Notação SPF
+
+DICOTOMIA
+
+NEWTHON-RAPHSON
